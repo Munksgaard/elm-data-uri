@@ -3,7 +3,7 @@
     "name": "munksgaard/elm-data-uri",
     "summary": "Parse and handle data URIs in Elm",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "exposed-modules": [
         "DataUri"
     ],

@@ -1,4 +1,4 @@
-# elm-media-type
+# elm-data-uri
 
 ![](https://travis-ci.org/Munksgaard/elm-data-uri.svg?branch=master)
 
