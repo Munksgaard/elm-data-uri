@@ -48,11 +48,16 @@ import Parser
 import Url
 
 
+{-| The data contained within a aata URI can either be base64 encoded raw bytes
+or a URL encoded string.
+-}
 type Data
     = Base64 Bytes
     | Raw String
 
 
+{-| The contents of the data URI
+-}
 type alias DataUri =
     { mediaType : MediaType
     , data : Data
