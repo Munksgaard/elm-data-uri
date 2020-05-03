@@ -28,22 +28,13 @@ import Parser
         , Parser
         , Step(..)
         , andThen
-        , backtrackable
-        , chompUntil
-        , chompUntilEndOr
         , chompWhile
-        , commit
         , getChompedString
-        , keyword
-        , loop
         , map
         , oneOf
         , problem
-        , run
-        , spaces
         , succeed
         , symbol
-        , variable
         )
 import Url
 
